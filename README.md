@@ -36,7 +36,7 @@ The pipeline consists of the following stages:
 ---
 
 ## **Dataset**  
-- **Source:** [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn).  
+- **Source:** [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset).  
 - **Description:** Contains information about customer demographics, services, tenure, and churn status.  
 - **Key Features:**  
   - Demographics: `gender`, `SeniorCitizen`, `Partner`, `Dependents`  
